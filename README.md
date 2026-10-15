@@ -9,5 +9,5 @@
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Introduction | Completed |
-| 02 | Variables | In progress |
+| 02 | Variables | Completed |
 | 03 | Operators | Pending |
