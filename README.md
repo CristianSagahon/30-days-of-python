@@ -10,4 +10,8 @@
 |-----|-------|--------|
 | 01 | Introduction | Completed |
 | 02 | Variables | Completed |
+
 | 03 | Operators | Pending |
+
+| 03 | Operators | Pending |
+
