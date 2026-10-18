@@ -11,5 +11,5 @@
 | 01 | Introduction | Completed |
 | 02 | Variables | Completed |
 | 03 | Operators | Completed|
-| 04 | Strings | Pending |
+| 04 | Strings | Completed |
 
